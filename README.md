@@ -8,4 +8,4 @@ $cd marcus0087-crunch
 $chmod +x install.sh
 $./install.sh
 that's it
-Thank you foe using
+Thank you for using
