@@ -16,3 +16,5 @@ $kill 1234(ur pid number).
 that's it.
 I have turned off ctrl+z and ctrl+x off because they can corrupt the whole system during production process.
 
+Be updated for more items on
+https://github.com/Marcus0086/marcus0087-crunch.git
